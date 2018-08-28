@@ -26,4 +26,11 @@ It is assumed Anaconda 5.2 is installed (Python 3.6)
 Also make sure Jupyter is installed. We will use jupyter lab for this tutorial.
 
 
+## Binder
+
+Binder can also be used for this tutorial. [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CharcoalStyles/EuroSciPy2018/master)
+
+Once launched, run the _Notebook - binder.ipynb_ notebook.
+
+Be aware, the dependencies do take a while to download and install.
 
