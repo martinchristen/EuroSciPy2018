@@ -10,7 +10,7 @@ The following modules will be covered:
 * Fiona - The pythonic way to handle vector data
 * rasterio - The pythonic way to handle raster data
 * pyproj - transforming spatial reference systems
-* Creating maps using Folium
+* Creating maps using Basemap & Folium
 
 ## Installation
 
