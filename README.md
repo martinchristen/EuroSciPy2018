@@ -1,4 +1,4 @@
-# EuroSciPy2018
+# EuroSciPy 2018
 
 This repository contains the Jupyter Notebook for my EuroSciPy 2018 Tutorial "Handling Geospatial Data using Python, Part I: Base Modules"
 
