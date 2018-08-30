@@ -21,6 +21,8 @@ It is assumed Anaconda 5.2 is installed (Python 3.6)
     conda install rasterio
     conda install geopandas
     conda install folium -c conda-forge
+    conda install basemap -c conda-forge
+
 
 
 Also make sure Jupyter is installed. We will use jupyter lab for this tutorial.
